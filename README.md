@@ -18,6 +18,8 @@ Endpoint: POST /nurse/vitals
 Usage: Permits the nurse to submit patient vitals such as blood pressure, temperature, pulse, and spo2.
 View List of Patients:
 
+The POST /nurse/vitals endpoint facilitates the submission of crucial patient vitals by nursing staff. This feature empowers nurses to record and store essential health metrics, including blood pressure, temperature, pulse rate, and oxygen saturation (spo2). By utilizing this endpoint, healthcare professionals can efficiently input and manage real-time patient vital signs within the Electronic Medical Record System. This functionality enhances the nurse's ability to monitor and respond to patient health, ensuring accurate and up-to-date information for delivering optimal care at the University of Ghana Medical Center (UGMC). The endpoint serves as a pivotal tool in maintaining comprehensive electronic health records for effective healthcare management.
+
 Endpoint: GET /doctor/patients
 Usage: Allows the doctor to retrieve a list of all registered patients.
 View Patient Details:
