@@ -23,6 +23,7 @@ The POST /nurse/vitals endpoint facilitates the submission of crucial patient vi
 Endpoint: GET /doctor/patients
 Usage: Allows the doctor to retrieve a list of all registered patients.
 View Patient Details:
+The GET /doctor/patients endpoint serves as a vital tool for doctors, offering seamless access to a comprehensive list of all registered patients. This functionality enables doctors to retrieve essential patient information efficiently, supporting informed decision-making and streamlined patient management. By accessing this endpoint, healthcare professionals at the University of Ghana Medical Center (UGMC) can gain a holistic view of the patient population, facilitating timely interventions and personalized care plans. 
 
 Endpoint: GET /doctor/patients/:patientId
 Usage: Enables the doctor to view detailed information about a specific patient using their ID.
