@@ -12,6 +12,8 @@ Endpoint: POST /encounters/start
 Usage: Enables the front-desk executive to initiate a patient encounter (visitation) with details like date, time, and encounter type.
 Submit Patient Vitals:
 
+The POST /encounters/start endpoint empowers the front-desk executive to initiate patient encounters, capturing critical visitation details. This functionality allows the executive to record the date, time, and type of encounter, such as Emergency, OPD, or Specialist Care. By utilizing this endpoint, the system seamlessly integrates encounter initiation into the workflow, ensuring comprehensive documentation of patient interactions. This feature enhances the University of Ghana Medical Center's (UGMC) ability to track and manage patient visits systematically, providing a valuable tool for healthcare professionals to deliver timely and effective care within the electronic medical record system.
+
 Endpoint: POST /nurse/vitals
 Usage: Permits the nurse to submit patient vitals such as blood pressure, temperature, pulse, and spo2.
 View List of Patients:
